@@ -1,0 +1,11 @@
+_____________________________________________________________
+|                                                            |
+| Clue for the 4th victim: I am a four-digit number between  |
+| 1000 and 1999. The sum of my digits in the thousands and   |
+| hundreds place is equal to the sum of my digits in the tens|
+| and ones place. The sum of my digits in the hundreds and   |
+| ones place is five times the sum of my digits in the       |
+| thousands and tens place. The number formed by the digits  |
+| in the thousands and hundreds place is equal to the sum of |
+| the digits of the four-digit number. What number am I?     |
+|____________________________________________________________|
